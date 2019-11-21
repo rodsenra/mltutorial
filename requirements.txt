@@ -1,0 +1,9 @@
+pydot
+matplotlib
+py4j
+seaborn
+jupyter
+scikit-learn
+pandas
+ipywidgets
+
